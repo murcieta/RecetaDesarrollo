@@ -3,3 +3,4 @@ Preparacion de la receta
 =======
 instrucciones para preparación de la paella
 >>>>>>> refs/heads/versionVegetariana
+En  vez de freir cocer los ingredientes
